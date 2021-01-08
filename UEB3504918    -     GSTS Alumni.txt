@@ -1,0 +1,53 @@
+
+   
+					   SYSTEM ACCESS   
+     			  _______________________________________________
+   			 |                       |                       |
+			 |   *~*~USERNAMES*~*    |    *~*~PASSWORD*~*    |
+    			 |_______________________|_______________________|
+			 |   Drizzle2018	 |	bigboy           |  
+			 |   LuxuryO		 |	diesu2020        |  
+			 |   KobiElikobs	 |	elijah751        |       
+			 |   JirEmiley	 	 |	puzzleB          |       
+			 |   MichJmike	 	 |	micky_mouse      |              
+			 |   TheophilBlarh_OBT   |	nyameBotan       |           
+			 |   Michananakofi	 |	lamparr@!4       |        
+			 |_______________________|_______________________|
+
+						     ___________
+						    |DESCRIPTION|							
+  ~> The system is a standalone offline software that is used to manage an Alumni System.
+  ~> The system consists of three main sections. [Splashscreen, Login & SignUp Page, Main Page for User];
+  ~> The system allows users inputs and interacts with the user through MessageBoxes.
+  ~> The system works very efficiently and is robust.
+  ~> MenuStrip is attached to the Main Form for easy system manipulation.
+
+   
+						 _______________
+						|SYSTEM CONTENTS|
+
+			=> Implemented the following controls [Guna Framework]
+				- groupBoxes
+				- panels
+				- textBoxes
+				- labels
+				- checkBoxes
+				- separator
+				- buttons
+				- pictureBoxes
+				- menuStrip
+				- linkLabels
+				- timers
+				- preLoaders
+				    etc etc
+
+			=> Special:  *** Marquee Effects ***
+			=> Special: Tooltips on loginBtn and submitBtn
+
+
+FRANCIS OWUSU BUABIN
+BSC. COMPUTER SCIENCE
+UEB3504918
+
+PROGRAMMING WITH VISUAL BASIC.NET 
+COMP 206

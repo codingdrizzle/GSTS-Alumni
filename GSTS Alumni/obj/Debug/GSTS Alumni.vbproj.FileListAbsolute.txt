@@ -1,0 +1,21 @@
+c:\users\papayaw   drizzle\documents\visual studio 2015\Projects\GSTS Alumni\GSTS Alumni\bin\Debug\GSTS Alumni.exe.config
+c:\users\papayaw   drizzle\documents\visual studio 2015\Projects\GSTS Alumni\GSTS Alumni\bin\Debug\GSTS Alumni.exe
+c:\users\papayaw   drizzle\documents\visual studio 2015\Projects\GSTS Alumni\GSTS Alumni\bin\Debug\GSTS Alumni.pdb
+c:\users\papayaw   drizzle\documents\visual studio 2015\Projects\GSTS Alumni\GSTS Alumni\bin\Debug\GSTS Alumni.xml
+c:\users\papayaw   drizzle\documents\visual studio 2015\Projects\GSTS Alumni\GSTS Alumni\bin\Debug\Guna.UI.dll
+c:\users\papayaw   drizzle\documents\visual studio 2015\Projects\GSTS Alumni\GSTS Alumni\bin\Debug\Guna.UI.pdb
+c:\users\papayaw   drizzle\documents\visual studio 2015\Projects\GSTS Alumni\GSTS Alumni\obj\Debug\GSTS Alumni.vbprojResolveAssemblyReference.cache
+c:\users\papayaw   drizzle\documents\visual studio 2015\Projects\GSTS Alumni\GSTS Alumni\obj\Debug\GSTS_Alumni.Form1.resources
+c:\users\papayaw   drizzle\documents\visual studio 2015\Projects\GSTS Alumni\GSTS Alumni\obj\Debug\GSTS_Alumni.Resources.resources
+c:\users\papayaw   drizzle\documents\visual studio 2015\Projects\GSTS Alumni\GSTS Alumni\obj\Debug\GSTS Alumni.vbproj.GenerateResource.Cache
+c:\users\papayaw   drizzle\documents\visual studio 2015\Projects\GSTS Alumni\GSTS Alumni\obj\Debug\GSTS Alumni.exe
+c:\users\papayaw   drizzle\documents\visual studio 2015\Projects\GSTS Alumni\GSTS Alumni\obj\Debug\GSTS Alumni.xml
+c:\users\papayaw   drizzle\documents\visual studio 2015\Projects\GSTS Alumni\GSTS Alumni\obj\Debug\GSTS Alumni.pdb
+C:\Users\PaPaYaW   DriZzLe\Documents\Visual Studio 2015\Projects\GSTS Alumni\GSTS Alumni\obj\Debug\GSTS_Alumni.Form2.resources
+C:\Users\PaPaYaW   DriZzLe\Documents\Visual Studio 2015\Projects\GSTS Alumni\GSTS Alumni\bin\Debug\MySql.Data.dll
+C:\Users\PaPaYaW   DriZzLe\Documents\Visual Studio 2015\Projects\GSTS Alumni\GSTS Alumni\bin\Debug\Google.Protobuf.dll
+C:\Users\PaPaYaW   DriZzLe\Documents\Visual Studio 2015\Projects\GSTS Alumni\GSTS Alumni\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\PaPaYaW   DriZzLe\Documents\Visual Studio 2015\Projects\GSTS Alumni\GSTS Alumni\bin\Debug\Renci.SshNet.dll
+C:\Users\PaPaYaW   DriZzLe\Documents\Visual Studio 2015\Projects\GSTS Alumni\GSTS Alumni\bin\Debug\MySql.Data.xml
+C:\Users\PaPaYaW   DriZzLe\Documents\Visual Studio 2015\Projects\GSTS Alumni\GSTS Alumni\obj\Debug\GSTS_Alumni.Form3.resources
+C:\Users\PaPaYaW   DriZzLe\Documents\Visual Studio 2015\Projects\GSTS Alumni\GSTS Alumni\obj\Debug\GSTS Alumni.vbproj.ResolveComReference.cache
